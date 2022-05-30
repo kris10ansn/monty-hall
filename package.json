@@ -1,0 +1,17 @@
+{
+    "name": "monty-hall",
+    "version": "1.0.0",
+    "description": "",
+    "main": "",
+    "scripts": {
+        "start": "node ./dist/main.js",
+        "watch": "tsc -w",
+        "build": "tsc"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "typescript": "^4.6.4"
+    }
+}
